@@ -1,0 +1,20 @@
+{
+    "name": "alunoms/mscode-composer-aula",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Miguel S Freitas",
+            "email": "miguel.soltofreitas.dev@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "fakerphp/faker": "^1.24"
+    }
+
+
+}
